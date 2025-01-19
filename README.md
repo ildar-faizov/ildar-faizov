@@ -7,7 +7,7 @@ I'm a Java developer with 15+ years of experience.
 - 🎓 Higher education @ SPbSU (Department of Mathematics and Mechanics)
 - 🌍 Engilsh (C1)
 
-## Contact Me
+## Contact Me 📞
 
 <div id="badges" align="center">
   <a href="https://t.me/ildfai" target="blank">
